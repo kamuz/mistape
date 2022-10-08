@@ -1,6 +1,6 @@
 # Mistape
 
-Mistape allows readers to effortlessly notify site staff about found spelling errors. Let your readers notify you about spelling mistakes they may encounter. Make them feel attentive and helpful, and show your care fixing reported errors.
+Mistape allows readers to effortlessly notify site staff about found spelling errors, let your readers notify you about spelling mistakes they may encounter. Make them feel attentive and helpful, and show your care fixing reported errors.
 
 On <kbd>Ctrl</kbd> + <kbd>Enter</kbd> event, plugin sends selected text along with paragraph and page URL it belongs to an email address selected in admin settings page. You can choose among administrators and editors, or specify another address.
 
